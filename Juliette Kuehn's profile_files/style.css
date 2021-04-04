@@ -1,0 +1,47 @@
+body {
+	font-size: 20px;
+	background-image: url(images/Website-03.jpeg);
+}
+h1 {
+  	color: #9E9D89;
+	font-size: 60px;
+	font-family: 'New Tegomin', serif;
+	letter-spacing: 10px;
+	font-weight: bold;
+}
+p, h2 { 
+	font-family: Helvetica;
+}
+p {
+ 	color: rgb(162, 162, 162);
+	font-size: 20px;
+	line-height: 2,6;
+}
+h2 {
+  	color: #B67162;
+	font-size: 30px;
+	font-weight: lighter;
+}
+a {
+ 	text-decoration: none;
+ 	color: #B67162;
+ 	font-family: 'Open Sans Condensed', sans-serif;
+ }
+a:hover {
+	color: purple;
+}
+img {
+	width: 80px;
+}
+#PP {
+	width: 250px;
+}
+.img-circle {
+	border-radius: 50%;
+}
+.shadowed {
+	box-shadow: 5px 5px 3px grey;
+}
+.text-center { 
+	text-align: center;
+}
